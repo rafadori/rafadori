@@ -37,7 +37,7 @@ Me chamo Rafael.
       <ul>
         <li>CPU: Intel Core i7 8565</li>
         <li>GPU: GeForce MX130</li>
-        <li>RAM: 8GB (DDR4-2666)</li>
+        <li>RAM: 8GB (DDR4)</li>
         <li>SSD: 128GB (NVMe)</li>
         <li>HD:  1TB (SATA)</li>
         <li>OS1: Windows 11</li>
@@ -49,8 +49,8 @@ Me chamo Rafael.
       <ul>
         <li>CPU: Intel Core i3 7100</li>
         <li>GPU: GeForce GTX 1050TI</li>
-        <li>RAM: 8GB (DDR4-2666)</li>
-        <li>SSD: 128GB (NVMe)</li>
+        <li>RAM: 8GB (DDR4)</li>
+        <li>SSD: 128GB (SATA)</li>
         <li>HD:  1TB (SATA)</li>
         <li>OS1: Windows 10</li>
         <li>OS2: Arch Linux</li>
