@@ -25,7 +25,6 @@ Me chamo Rafael.
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=for-the-badge&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-  [![IDE:IDEA](https://img.shields.io/badge/IDE-IDEA-magenta?style=for-the-badge&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
   <a href = "mailto:rafadori26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-ramos-38a83a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
