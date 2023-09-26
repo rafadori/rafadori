@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Snake animation](https://github.com/rafadori/rafadori/blob/output/github-contribution-grid-snake.svg)
 -->
 
 Me chamo Rafael.
@@ -28,33 +29,4 @@ Me chamo Rafael.
   <a href = "mailto:rafadori26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-ramos-38a83a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<details>
-    <summary><strong>Meu setup</strong></summary>
-    <details>
-    <br>
-      <summary><strong>Notebook</strong></summary>
-      <ul>
-        <li>CPU: Intel Core i7 8565</li>
-        <li>GPU: GeForce MX130</li>
-        <li>RAM: 8GB (DDR4)</li>
-        <li>SSD: 128GB (NVMe)</li>
-        <li>HD:  1TB (SATA)</li>
-        <li>OS1: Windows 11</li>
-        <li>OS2: Arch Linux</li>
-      </ul>
-    </details>
-    <details>
-      <summary><strong>Desktop</strong></summary>
-      <ul>
-        <li>CPU: Intel Core i3 7100</li>
-        <li>GPU: GeForce GTX 1050TI</li>
-        <li>RAM: 8GB (DDR4)</li>
-        <li>SSD: 128GB (SATA)</li>
-        <li>HD:  1TB (SATA)</li>
-        <li>OS1: Windows 10</li>
-        <li>OS2: Arch Linux</li>
-      </ul>
-    </details>
-</details>
 
-![Snake animation](https://github.com/rafadori/rafadori/blob/output/github-contribution-grid-snake.svg)
