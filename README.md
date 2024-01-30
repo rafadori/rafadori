@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Me chamo Rafael.
 
-- 🔭 Trabalhando com VTEX, projetos JavaScript/Python e Wordpress.
 - 📫 Como entrar em contato comigo: [e-mail](mailto:rafadori26@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rafael-ramos-38a83a231/)
 
 <div align="center">
