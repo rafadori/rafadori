@@ -1,4 +1,4 @@
-### Olá a todos 👋
+### Hi there 👋
 
 <!--
 **rafadori/rafadori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/rafadori/rafadori/blob/output/github-contribution-grid-snake.svg)
 -->
 
-Me chamo Rafael.
+I'm Rafael.
+- 🔭 I’m currently working on chatbot and voicebot projects
+- 🌱 I’m currently learning Node.js and React.js
+- 👯 I’m looking to collaborate on JavaScript projects
+- 💬 Ask me about anything!
+- 📫 How to reach me: [e-mail](mailto:rafadori26@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rafael-ramos-38a83a231/)
 
-- 📫 Como entrar em contato comigo: [e-mail](mailto:rafadori26@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rafael-ramos-38a83a231/)
 
 <div align="center">
   
