@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 I'm Rafael.
 - 🔭 I’m currently working on chatbot and voicebot projects
-- 🌱 I’m currently learning Node.js and React.js
-- 👯 I’m looking to collaborate on JavaScript projects
+- 👯 I’m looking to collaborate on Node.js projects
 - 💬 Ask me about anything!
 - 📫 How to reach me: [e-mail](mailto:rafadori26@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rafael-ramos-38a83a231/)
 
