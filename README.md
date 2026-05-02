@@ -1,26 +1,30 @@
-### Hi there 👋
-
-<!--
-**rafadori/rafadori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Snake animation](https://github.com/rafadori/rafadori/blob/output/github-contribution-grid-snake.svg)
--->
-
-I'm Rafael.
-- 🔭 I’m currently working on chatbot and voicebot projects
-- 👯 I’m looking to collaborate on Node.js projects
-- 💬 Ask me about anything!
-- 📫 How to reach me: [e-mail](mailto:rafadori26@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rafael-ramos-38a83a231/)
+### Hey, I'm Rafael 👋
+ 
+```
+Full Stack Developer · Chatbot & Voicebot Builder · Node.js Enthusiast
+```
+ 
+---
+ 
+I build things that talk — chatbots, voicebots, and the backend plumbing that makes them actually work.  
+Day to day I'm deep in Node.js, but I'm always up for a challenge on either end of the stack.
+ 
+---
+ 
+**What I'm up to**
+ 
+- 🔭 Currently building chatbot and voicebot solutions at Algar Tech
+- 🌱 Always sharpening my Node.js chops and exploring new integrations
+- 👯 Looking to collaborate on Node.js projects — hit me up
+---
+ 
+**Reach me**
+ 
+📫 [rafadori26@gmail.com](mailto:rafadori26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rafaelnra/)
+ 
+---
+ 
+💬 Ask me about anything — seriously, anything.
 
 
 <div align="center">
